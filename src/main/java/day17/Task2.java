@@ -2,6 +2,7 @@ package day17;
 
 public class Task2 {
     public static void main(String[] args) {
+<<<<<<< HEAD
         ChessPiece blackRook = ChessPiece.ROOK_BLACK;
         ChessPiece blackQueen = ChessPiece.QUEEN_BLACK;
         ChessPiece whiteRook = ChessPiece.ROOK_WHITE;
@@ -26,5 +27,8 @@ public class Task2 {
             };
         ChessBoard chessBoard = new ChessBoard(chessPieces);
         chessBoard.print();
+=======
+
+>>>>>>> 1ce4235 (tasks from day1 to day4 are decided)
     }
 }

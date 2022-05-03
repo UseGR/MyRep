@@ -2,6 +2,7 @@ package day17;
 
 public class Task1 {
     public static void main(String[] args) {
+<<<<<<< HEAD
         ChessPiece whitePawn1 = ChessPiece.PAWN_WHITE;
         ChessPiece whitePawn2 = ChessPiece.PAWN_WHITE;
         ChessPiece whitePawn3 = ChessPiece.PAWN_WHITE;
@@ -15,5 +16,8 @@ public class Task1 {
 
         for (ChessPiece figures : array)
             System.out.print(figures + " ");
+=======
+
+>>>>>>> 1ce4235 (tasks from day1 to day4 are decided)
     }
 }

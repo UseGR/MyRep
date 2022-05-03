@@ -1,5 +1,6 @@
 package day2;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Task3 {
@@ -20,5 +21,10 @@ public class Task3 {
                 numberA++;
             }
         }
+=======
+public class Task3 {
+    public static void main(String[] args) {
+
+>>>>>>> 1ce4235 (tasks from day1 to day4 are decided)
     }
 }

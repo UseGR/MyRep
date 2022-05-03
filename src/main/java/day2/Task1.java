@@ -1,5 +1,6 @@
 package day2;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Task1 {
@@ -16,5 +17,10 @@ public class Task1 {
         } else {
             System.out.println("Multi-storey building");
         }
+=======
+public class Task1 {
+    public static void main(String[] args) {
+
+>>>>>>> 1ce4235 (tasks from day1 to day4 are decided)
     }
 }

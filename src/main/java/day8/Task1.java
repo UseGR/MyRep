@@ -2,6 +2,7 @@ package day8;
 
 public class Task1 {
     public static void main(String[] args) {
+<<<<<<< HEAD
         long startTime1 = System.currentTimeMillis();
         String s1 = "";
         for (int i = 0; i <= 20000; i++) {
@@ -21,6 +22,8 @@ public class Task1 {
         System.out.println("--------------------------");
         System.out.println("Время выполнения программы через конкатенацию строк: " + (stopTime1 - startTime1) + " мс");
         System.out.println("Время выполнения программы через StringBuilder: " + (stopTime2 - startTime2) + " мс");
+=======
+>>>>>>> 1ce4235 (tasks from day1 to day4 are decided)
 
     }
 }
